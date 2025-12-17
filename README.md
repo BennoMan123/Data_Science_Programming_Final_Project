@@ -2,7 +2,7 @@
 
 The purpose of this project is to look at the statistics of the RIT's men's hockey team at roughly the midway point of the season (all games up to and including the 12/6/25 game) and see what needs improvement and a view of some of the team's statisitcs both as a team and individually.
 
-<a href="https://ritathletics.com/sports/mens-ice-hockey/stats/2025-26#individual">The data comes from this site here.</a>
+<a href="https://ritathletics.com/sports/mens-ice-hockey/stats/2025-26#individual" target="_blank">The data comes from this site here.</a>
 
 Files in this repository:
 * FinalProject.ipynb
